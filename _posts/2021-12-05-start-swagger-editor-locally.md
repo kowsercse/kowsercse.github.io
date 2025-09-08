@@ -21,7 +21,7 @@ cd swagger-editor
 python3 -m http.server
 ```
 
-Access the swagger editor at: <http://localhost:8000/>
+Access the swagger editor at: <https://localhost:8000/>
 
 ## Swagger UI
 
@@ -33,7 +33,7 @@ cd swagger-ui/dist
 python3 -m http.server
 ```
 
-Access the swagger editor at: <http://localhost:8000/>
+Access the swagger editor at: <https://localhost:8000/>
 
 ## References
 
