@@ -43,5 +43,5 @@ So, yesterday Dhaka University held its DUCSU election. Never forget, its studen
 
 # References
 
-1. https://en.wikipedia.org/wiki/2025_DUCSU_election
-2. https://www.prothomalo.com/bangladesh/7shgm6t3ll
+1. [2025 DUCSU election](https://en.wikipedia.org/wiki/2025_DUCSU_election)
+2. [ডাকসুর ২৮ পদে কারা কোনটিতে জয়ী](https://www.prothomalo.com/bangladesh/7shgm6t3ll)
